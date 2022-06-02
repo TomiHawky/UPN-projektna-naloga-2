@@ -5,3 +5,5 @@ Kosovnica:
 - 3x gumbi
 - arduino mega
 - žičke
+
+![image](https://raw.githubusercontent.com/TomiHawky/UPN-projektna-naloga-2/main/vezje.jpg)
