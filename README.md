@@ -7,5 +7,8 @@ Kosovnica:
 - žičke
 
 ![image](https://raw.githubusercontent.com/TomiHawky/UPN-projektna-naloga-2/main/vezje.jpg)
+Priredbeni seznam:
+
+![image](https://raw.githubusercontent.com/TomiHawky/UPN-projektna-naloga-2/main/tabela.PNG)
 
 Komentar: Brezhibno delovanje, za še boljši izgled bi vezje lahko vsebovalo led diode. Za vklop bi bila bolj primerna uporaba stikala.
