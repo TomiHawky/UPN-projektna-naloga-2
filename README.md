@@ -12,3 +12,4 @@ Priredbeni seznam:
 ![image](https://raw.githubusercontent.com/TomiHawky/UPN-projektna-naloga-2/main/tabela.PNG)
 
 Komentar: Brezhibno delovanje, za še boljši izgled bi vezje lahko vsebovalo led diode. Za vklop bi bila bolj primerna uporaba stikala.
+![image](https://user-images.githubusercontent.com/97598187/173014635-10ac5fd5-8028-4384-9213-ba363ff4eee9.png)
