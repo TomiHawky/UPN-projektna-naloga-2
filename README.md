@@ -12,4 +12,8 @@ Priredbeni seznam:
 ![image](https://raw.githubusercontent.com/TomiHawky/UPN-projektna-naloga-2/main/tabela.PNG)
 
 Komentar: Brezhibno delovanje, za še boljši izgled bi vezje lahko vsebovalo led diode. Za vklop bi bila bolj primerna uporaba stikala.
+
+EASY:
 ![image](https://user-images.githubusercontent.com/97598187/173014635-10ac5fd5-8028-4384-9213-ba363ff4eee9.png)
+MITSUBISHI ALPHA:
+![image](https://user-images.githubusercontent.com/97598187/173014899-981df20d-d33d-4819-be92-3b4ef9fa77a4.png)
